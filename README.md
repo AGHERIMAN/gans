@@ -1,0 +1,2 @@
+# gans
+menggunakan akulaku
